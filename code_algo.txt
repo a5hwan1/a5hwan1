@@ -1,0 +1,6 @@
+#row=len(an[0])
+    # ans=[[0]*row for i in range(row)]
+# for r in range(row):
+#     for c in range(row):
+#         # ans[c][2-r]=a[r][c]
+#         print("c is : ", c, " r is : ",r)
